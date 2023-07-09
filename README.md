@@ -11,7 +11,6 @@ from their list.
 - [Overview](#Overview)
 - [The Challenge](#The-Challenge)
 - [Usage Information](#Usage-Information)
-- [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
 - [Author](#Author)
 
@@ -74,7 +73,7 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
 
-## Usage Instructions:
+## Usage Information:
 
 To use this app npm init has to be called to create your package.json file.
 The following necessary Npm dependencies must be installed to run the application properly: the needed dependencies will be found on the package.json file.
